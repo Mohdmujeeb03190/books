@@ -1,0 +1,8 @@
+6180ad13aa4b9deaf855121f7add70d4  usr/bin/njs
+0604ad4d1906aa7d700214c9b0403cb6  usr/lib/nginx/modules/ngx_http_js_module-debug.so
+86c160f43ffa3dfe7ab9babdfc06467f  usr/lib/nginx/modules/ngx_http_js_module.so
+fc6dfb852e656342484fa579ab1b253c  usr/lib/nginx/modules/ngx_stream_js_module-debug.so
+13cb28f03a44c442e0c8a740ac305669  usr/lib/nginx/modules/ngx_stream_js_module.so
+5af78fd7256d66547553eedfc8c4235b  usr/share/doc/nginx-module-njs/changelog.Debian.gz
+4800f8a23b29540f6452d4602253b97d  usr/share/doc/nginx-module-njs/changelog.gz
+c725020a1f6ea7fff1179957e118891c  usr/share/doc/nginx-module-njs/copyright
